@@ -1,0 +1,3 @@
+[submodule "00-Monolithic/cloud"]
+	path = 00-Monolithic/cloud
+	url = https://github.com/Dhiya-shree/Spring-Cloud-Projects.git
